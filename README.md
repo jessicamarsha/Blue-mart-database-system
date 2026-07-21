@@ -4,9 +4,9 @@
 
 This project was developed as part of the Database course in the Bachelor of Informatics Engineering program at Sam Ratulangi University.
 
-The project implements a relational database system for Blue Mart using MariaDB and SQL.
+My contribution included implementing the database using MariaDB and SQL.
 
-This repository is shared as part of my academic portfolio to showcase my contribution to the project.
+This repository is shared as part of my academic portfolio.
 
 ## Technologies
 
