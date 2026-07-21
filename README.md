@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project was developed as part of the Database course in the Bachelor of Informatics Engineering program at Sam Ratulangi University.
-
-My contribution included implementing the database using MariaDB and SQL.
+Blue Mart Database Management System is a relational database project developed using MariaDB and SQL. The database is designed to manage products, customers, transactions, and transaction details for the Blue Mart sales system.
 
 This repository is shared as part of my academic portfolio.
 
@@ -13,12 +11,22 @@ This repository is shared as part of my academic portfolio.
 - MariaDB
 - SQL
 
+## Features
+
+- Relational database design
+- Primary Key & Foreign Key implementation
+- Data integrity constraints
+- Trigger for automatic subtotal calculation
+- Trigger for automatic total payment calculation
+
 ## Repository Contents
 
-- `blue_mart_db.sql` — Database schema and sample data for the Blue Mart database.
+- `blue_mart.sql` — Database schema, sample data, and triggers.
+- `Blue_Mart_Report.pdf` — Project documentation.
+- `ERD.png` — Entity Relationship Diagram (optional).
 
-## Project Information
+## Contribution
 
-This project was completed as a team assignment for the Database course.
+This project was completed as a team assignment.
 
-My contribution focused on the database implementation using MariaDB and SQL.
+My primary contribution focused on the implementation of the database using MariaDB and SQL, including database schema creation, sample data insertion, and trigger implementation.
