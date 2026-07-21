@@ -13,9 +13,9 @@ This repository is shared as part of my academic portfolio.
 - MariaDB
 - SQL
 
-## Repository
+## Repository Contents
 
-- blue_mart_db.sql
+- `blue_mart_db.sql` — Database schema and sample data for the Blue Mart database.
 
 ## Project Information
 
