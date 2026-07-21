@@ -21,7 +21,7 @@ This repository is shared as part of my academic portfolio.
 
 ## Repository Contents
 
-- `blue_mart.sql` — Database schema, sample data, and triggers.
+- `blue_mart_db.sql` — Database schema, sample data, and triggers.
 
 ## Contribution
 
