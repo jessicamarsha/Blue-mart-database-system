@@ -22,8 +22,6 @@ This repository is shared as part of my academic portfolio.
 ## Repository Contents
 
 - `blue_mart.sql` — Database schema, sample data, and triggers.
-- `Blue_Mart_Report.pdf` — Project documentation.
-- `ERD.png` — Entity Relationship Diagram (optional).
 
 ## Contribution
 
